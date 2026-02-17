@@ -100,8 +100,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 
 <img 
 align="left"
-alt="GitHub"
-title="GitHub"
+alt="Git"
+title="Git"
 width="30"
 height="30"
 style="padding-right: 10px;"
